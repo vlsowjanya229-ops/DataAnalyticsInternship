@@ -20,7 +20,7 @@ During the internship, I worked on various datasets to perform:
 | ----------------- | ---------------------------------------------------------- |
 | SQL Queries   | Contains SQL scripts used for analysis                     |
 | R Scripts   | R code for statistical analysis and plots                  |
-| Excel Reports  | Excel sheets with dashboards and pivot tables              |
-| Python Scripts | Python notebooks for data cleaning, EDA, and visualization |
+| Excel Reports  | Excel sheets with data             |
+| Python Scripts | Python notebooks for data cleaning and visualization |
 | Result      | PDF/Word reports summarizing findings                      |
 
